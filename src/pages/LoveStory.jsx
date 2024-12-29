@@ -64,7 +64,7 @@ const LoveStory = () => {
               <div className='shyari3'>
                 <p>"Pyaar kiya hai tumse </p>
                 <p>Befikar Raho </p>
-                <p>Narazgi Ho Sakti Hai, Par</p>
+                <p>Narazgi Ho Sakti Hai,Par</p>
                 <p>Nafrat Kabhi Nahi Hogi </p>
               </div>
               <div>
