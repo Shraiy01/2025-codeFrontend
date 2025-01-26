@@ -10,6 +10,6 @@ export const getScoreMessage = (score, total) => {
   } else if (percentage >= 40) {
     return "Not bad! Let's make even more memories together! 💓";
   } else {
-    return "Aww, that's okay! Every day is a chance to learn more about each other! 💗";
+    return "Aw, that's okay! Every day is a chance to learn more about each other! 💗";
   }
 };
